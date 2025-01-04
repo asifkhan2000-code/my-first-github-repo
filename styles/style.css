@@ -1,0 +1,10 @@
+*{
+    margin-bottom: 30px;
+}
+div{
+    background-color: tomato;
+    font-size: larger;
+}
+.compulsory{
+    color: blue;
+}
